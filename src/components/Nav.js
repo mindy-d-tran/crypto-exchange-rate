@@ -6,7 +6,7 @@ export default function Nav() {
       <Link to="/">
         <div>CRYPTO PRICES</div>
       </Link>
-      <Link to="/curencies">
+      <Link to="/currencies">
         <div>CURRENCIES</div>
       </Link>
     </div>
